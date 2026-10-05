@@ -1,0 +1,6 @@
+{
+  "name": "LuminaLive — 4K Live Wallpapers & Motion Engine",
+  "description": "Galeria de live wallpapers interativos em alta definição com ajuste de taxa de atualização até 240Hz, downloads em MP4, GIF e 4K, filtros por artista e modo noturno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
